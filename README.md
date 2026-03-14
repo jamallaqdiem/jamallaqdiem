@@ -8,10 +8,12 @@ I build practical, real-world solutions with a focus on security and efficiency.
 ##  Highlighted Project: Visitor Management System (V1 & V2)
 
 ### **V1: Desktop App - Live & Deployed**
+link to Repo: https://github.com/jamallaqdiem/visitors-profile
 * **Used by The Salvation Army:** Developed a custom Electron desktop application to manage security protocols and visitor filtering.
 * **Tech:** Electron, Node.js, Javascript, CSS, IPC Security, CSV file.
 
 ### **V2: Full-Stack Enterprise System - In Development**
+link to repo: private repo
 * **Scaling to the Cloud:** Re-architecting the system into a full-stack web application to support multi-site management.
 * **Architecture:** Migrating local data to **Azure SQL Database** for centralized, secure storage.
 * **Backend:** Node.js API for authentication and secure data transactions.
@@ -34,4 +36,4 @@ I build practical, real-world solutions with a focus on security and efficiency.
 ---
 
 ## 📫 Connect with me:
-LinkedI: https://www.linkedin.com/in/jamal-laqdiem-software-engineer | Email: mailto:jlaqdiem@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jamal-laqdiem-software-engineer) | [Email](mailto:jlaqdiem@gmail.com)
